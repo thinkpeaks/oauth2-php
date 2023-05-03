@@ -1,5 +1,7 @@
-OAuth2 Server Implementation
-============================
+OAuth2 Server Implementation FORKED
+===================================
+
+WARNING: This is a fork of the original oauth2-php v1.3.1.
 
 [![Build Status](https://secure.travis-ci.org/FriendsOfSymfony/oauth2-php.png?branch=master)](http://travis-ci.org/FriendsOfSymfony/oauth2-php)
 [![HHVM Status](http://hhvm.h4cc.de/badge/FriendsOfSymfony/oauth2-php.svg)](http://hhvm.h4cc.de/package/FriendsOfSymfony/oauth2-php)
